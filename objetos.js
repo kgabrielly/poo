@@ -1,26 +1,31 @@
 let aluno01 = new Aluno(
     "Kemylly",
-    15 
+    15,
+    '2020304525'
 );
 
 let aluno02 = new Aluno(
     "Gabriel",
-    17 
+    17,
+    '2022303635'
 );
 
 let aluno03 = new Aluno(
     "Alexsander",
-    50 
+    50,
+    '2022306978'
 );
 
 let aluno04 = new Aluno(
     "Osvaldo Epifânio",
-    20303889 
+    20303889,
+    '18553306678'
 );
 
 let aluno05 = new Aluno(
     "melrick",
-    16 
+    16,
+    '2022306655'
 );
 
 var listaAlunos = [];
